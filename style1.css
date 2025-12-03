@@ -11,7 +11,7 @@ body{
 header{
     width: 100%;
     position: fixed;
-    padding: 3rem 12%;
+    padding: 2rem 12%;
     top: 0;
     left: 0;
     display: flex;
@@ -178,3 +178,4 @@ video{
         padding: 10% 5%
     }
 }
+
